@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="utf-8">
+	<head>
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<title>在线网校学习平台</title>
+		<link href="/res/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+		<link href="/res/css/reset.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/res/js/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript" src="/res/js/jquery.form.js"></script>
+		<script type="text/javascript" src="/res/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/res/js/oc.min.js"></script>
+		<script type="text/javascript" src="/res/js/footer.js"></script>
+
+		<!--[if lt IE 9]>
+		<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<link rel="icon" type="image/png" href="/res/i/ico.png" sizes="16x16">
+
+		<script type="text/javascript">
+            CONTEXT_PATH = '../../pages';
+
+            $(function(){
+                // 设置jQuery Ajax全局的参数
+                $.ajaxSetup({
+                    type: "POST",
+                    complete:function(xhr,status){
+                        if(xhr.responseJSON.errcode == 1001){//登录超时
+                            window.location.href=CONTEXT_PATH+"/auth/login.html";
+                        }
+                    }
+                });
+            });
+		</script>
+	</head>
+
+	<body onload="init()">
+		<div id="header2">
+			<div class="f-header">
+				<div class="f-header-box clearfix">
+					<a href=""  class="logo" title="在线网校学习平台"></a>
+					<nav class="header-nav">
+						<a href="" class="header-nav-item">首 页</a>
+						<a href="" class="header-nav-item">课 程</a>
+						<a href="" class="header-nav-item">我的</a>
+						<a href="http://opt.ioswift.org" target="_blank" class="header-nav-item" style="width:100px;">运营CMS</a>
+						<a href="http://m.ioswift.org" target="_blank" class="header-nav-item" style="width:100px;">M站</a>
+					</nav>
+				</div>
+			</div>
+			<script>
+                function reloadIndityImg(eleId){
+                    document.getElementById(eleId).src = CONTEXT_PATH + "/tools/identiry/code.html?ticket=" + Math.random();
+                }
+			</script>
+
+		</div>
+		<div class="f-main">
+			<div class="types-block clearfix" style="text-align: center;">
+				<h3 class="types-title">注册</h3>
+				<form id="registerForm" method="post" action="/auth/doRegister.html" class="oc-form"  style="text-align: center;border: 1px solid #CCC;width: 600px;margin:0 auto;padding:20px;" >
+						<li><label>用户名</label> 
+							<input maxlength="20" id="username" name="username"  type="text"  class="input-text"  placeholder="请输入用户名（英文数字）" >
+						</li>
+						<li><label>密码</label> 
+							<input maxlength="20" id="password" name="password" type="password" class="input-text" placeholder="请输入密码" autocomplete="off" />
+						</li>
+						<li><label>验证码</label> 
+						<input id="identiryCode" name="identiryCode" maxlength="6" class="input-text" type="text" style="width: 150px;" placeholder="请输入验证码"/>
+						<a class="vali-base"><img  onclick="reloadIndityImg('indeityImgRegister');" id="indeityImgRegister"  src="" style="width:80px;height:40px;float:left;margin-left:10px;"/></a>
+						</li>
+						<li id="errorMsg" class="clearfix" style="display: none;color:red;">用户名密码不能为空</li>
+						<li class="clearfix" style="margin-top: 30px;">
+							<input type="button" value="注册保存" class="btn" onclick="doSubmit();">
+						</li>
+						<li>
+							<a style="float: left;" href="">已有账号，去登录</a>
+						</li>
+					</form>
+			</div>
+		</div>
+		<div id="footer">
+			<div class="f-footer">
+				<div class="f-footer-box clearfix">
+					<div class="footer-link">
+						<a href="javascript:void(0);"  target="_blank" title="企业合作">企业合作</a>
+						<a href="javascript:void(0);" target="_blank" title="联系我们">联系我们</a>
+						<a href="javascript:void(0);" target="_blank" title="常见问题">常见问题</a>
+						<a href="javascript:void(0);" target="_blank" title="意见反馈">意见反馈</a>
+						<a href="javascript:void(0);" target="_blank" title="友情链接">友情链接</a>
+					</div>
+
+					<div class="footer-copyright">
+						<span>©&nbsp;2017&nbsp; 备案 </span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript">
+		function doSubmit(){
+			var username = $('#username').val();
+			var password = $('#password').val();
+			
+			//验证用户名 
+			if(!oc.enNumValid(username)){
+				$('#errorMsg').show();
+				$('#errorMsg').html("用户名只能为英文或数字");
+				return;
+			}
+			
+			//验证密码
+			if(oc.isEmpty(password) || password.length < 6){
+				$('#errorMsg').show();
+				$('#errorMsg').html("密码至少6位");
+				return;
+			}
+			
+			//验证码不能为空
+			var code = $('#identiryCode').val();
+			if(oc.isEmpty(code)){
+				$('#errorMsg').show();
+				$('#errorMsg').html("请输入验证码");
+				return;
+			}
+			
+			//提交注册
+			$('#registerForm').ajaxSubmit({
+				datatype : 'json',
+				success : function(respText) {
+					var resp = $.parseJSON(respText);
+					if (resp.errcode == 0) {
+						$('#errorMsg').show();
+						$('#errorMsg').html("注册成功！3s后跳转到登陆页！");
+						setTimeout(function(){
+							window.location.href="/auth/login.html";
+						},3000)
+					} else if(resp.errcode == 1) {
+						$('#errorMsg').show();
+						$('#errorMsg').html("用户名已被注册，请更换！");
+					}else if(resp.errcode == 2){
+						$('#errorMsg').show();
+						$('#errorMsg').html("验证码输入错误！");
+						reloadIndityImg('indeityImgRegister');
+					}
+				},
+				error : function(xhr) {
+					
+				}
+			});
+
+		}
+	</script>
+</html>
