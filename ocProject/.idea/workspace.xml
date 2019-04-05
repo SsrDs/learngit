@@ -53,58 +53,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/PortalController.java">
+        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/AuthController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="152">
+              <caret line="113" selection-start-line="113" selection-end-line="113" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/index.html">
+        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/shiro.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-902">
-              <caret line="110" column="57" selection-start-line="110" selection-start-column="57" selection-end-line="110" selection-end-column="57" />
-              <folding>
-                <element signature="n#style#0;n#a#3;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#2;n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#a#4;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/dao/ConstsSiteCarouselDao.java">
+        <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/web/auth/AuthFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            <state relative-caret-position="177">
+              <caret line="38" column="49" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="196" column="5" lean-forward="true" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,13 +95,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/impl/SiteCarouselServiceImpl.java">
+        <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="31" column="80" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -130,90 +109,102 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>void</find>
-      <find>..</find>
-      <find>im</find>
-      <find>icon</find>
-      <find>png</find>
-      <find>img</find>
-      <find>c1</find>
-      <find>qiniu</find>
-      <find>ba</find>
-      <find>${s.</find>
-      <find>registeForm</find>
-      <find>registeTitle</find>
+      <find>我的</find>
+      <find>errcode</find>
+      <find>responseJSON</find>
+      <find>headerpage</find>
+      <find>getByUsernameAndPassword</find>
+      <find>SessionUser</find>
+      <find>onAccessDenied</find>
+      <find>验证码</find>
+      <find>reload</find>
       <find>loginForm</find>
-      <find>document</find>
-      <find>regis</find>
-      <find>core</find>
-      <find>context</find>
-      <find>CONTEXT_PATH</find>
-      <find>base</find>
-      <find>we</find>
-      <find>wechat_id</find>
+      <find>login</find>
+      <find>&lt;</find>
+      <find>header</find>
+      <find>incl</find>
+      <find>RememberMe</find>
+      <find>info</find>
+      <find>1001</find>
+      <find>//获取当前用户学习进度</find>
+      <find>1</find>
+      <find>aler</find>
+      <find>curCourseSpan</find>
+      <find>curNav</find>
+      <find>userNavHeader</find>
+      <find>headerUserHeader</find>
+      <find>eleId</find>
+      <find>reloadIndityImg</find>
+      <find>action</find>
+      <find>rememberMe</find>
+      <find>isAccessAllowed</find>
+      <find>isAuthenticated</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/static/index.html" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/impl/UserTestDaoImpl.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IUserTest.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/IUsetTestDao.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/IUserMapper.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/User.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/vo/UserTestDao.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/test/UserTest.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserTestImpl.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/vo/UserTest.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserTestDao.java" />
-        <option value="$PROJECT_DIR$/ocCommon/pom.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/header2.html" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/res.html" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/header2.html" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/footer.html" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/res/js/footer.js" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/orm/Identifier.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/orm/LongModel.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/AuthUser.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/JsonView.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/register.html" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserTestMapper.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/ocService/pom.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/jdbc.properties" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/AuthUserDao.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IAuthUserService.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/AuthUserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/AuthController.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/AuthUserMapper.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/app-servlet.xml" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/utils/PropertiesUtil.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/FileTypeHelper.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/QiniuWrapper.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/application.properties" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/ThumbModel.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/utils/CommonUtil.java" />
-        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/QiniuKeyGenerator.java" />
-        <option value="$PROJECT_DIR$/ocPortal/src/test/com.online.service/QiNiuTest.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/domain/ConstsSiteCarousel.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/ISiteCarouselService.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/dao/ConstsSiteCarouselDao.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/dao/ConstsSiteCarouselMapper.xml" />
+        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/shiro/freemarker/RoleTag.java" />
         <option value="$PROJECT_DIR$/ocPortal/src/main/resource/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/PortalController.java" />
-        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/impl/SiteCarouselServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/HttpHelper.java" />
+        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/shiro/ShiroFreeMarkerConfigurer.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/app-servlet.xml" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/error/404.html" />
+        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/util/EncryptUtil.java" />
         <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/index.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/register.html" />
+        <option value="$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/SessionContext.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/domain/AuthUser.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/login.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/header2.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/res.html" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/UserFollowStudyRecord.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IUserFollowService.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserFollowDao.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserFollowServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserFollowMapper.xml" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/nav.html" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/UserCourseSectionDto.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IUserCourseSectionService.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCourseSectionDao.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserCourseSectionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/course.html" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCourseSectionMapper.xml" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IUserCollectionsService.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCollectionsDao.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserCollectionsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCollectionsMapper.xml" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/info.html" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/service/impl/AuthUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/dao/AuthUserDao.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/service/IAuthUserService.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/dao/AuthUserMapper.xml" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/home.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/header.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/learn.html" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/web/VerificationCodeController.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/dao/CourseCommentMapper.xml" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/CourseCommentController.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/qa.html" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/service/impl/CourseCommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/dao/CourseCommentDao.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/service/ICourseCommentService.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/web/auth/AuthRealm.java" />
+        <option value="$PROJECT_DIR$/ocService/src/main/java/com/online/web/auth/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/ocPortal/src/main/resource/shiro.xml" />
       </list>
     </option>
   </component>
@@ -241,7 +232,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ocPortal Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="ocService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ocService" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
@@ -251,8 +251,8 @@
     <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="125" />
-    <option name="y" value="35" />
+    <option name="x" value="35" />
+    <option name="y" value="10" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
@@ -278,46 +278,6 @@
             <path>
               <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocCommon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
               <item name="ocPortal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,6 +300,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
+              <item name="ocPortal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="portal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
@@ -371,13 +340,6 @@
             <path>
               <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocPortal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
               <item name="ocService" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -419,29 +381,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="online" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocService" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="online" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ocProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocProject" type="462c0819:PsiDirectoryNode" />
-              <item name="ocService" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="online" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -458,7 +397,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553261837398" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554464149841" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -467,18 +406,31 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.51490825" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.online.portal.vo" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.online.core.user.dao" />
+      <recent name="com.online.core.user.service.impl" />
+      <recent name="com.online.core.user.service" />
+      <recent name="com.online.core.course.service.impl" />
+      <recent name="com.online.portal.business.impl" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\IDEAwork\ocProject\ocService\src\main\java\com\online\core\consts\domain" />
-      <recent name="F:\IDEAwork\ocProject\ocCommon\src\main\java\com\online\common\utils" />
-      <recent name="F:\IDEAwork\ocProject\ocCommon\src\main\java\com\online\common\storage" />
+      <recent name="F:\IDEAwork\ocProject\ocService\src\main\java\com\online\core\user\domain" />
+      <recent name="F:\IDEAwork\ocProject\ocPortal\src\main\webapp\WEB-INF\pages\common" />
+      <recent name="F:\IDEAwork\ocProject\ocPortal\src\main\webapp\WEB-INF\pages" />
+      <recent name="F:\IDEAwork\ocProject\ocCommon\src\main\java\com\online\common\util" />
       <recent name="F:\IDEAwork\ocProject\ocCommon\src\main\java\com\online\common\web" />
-      <recent name="F:\IDEAwork\ocProject\ocCommon\src\main\java\com\online\common\orm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.online.core.auth.service.impl" />
+      <recent name="com.online.core.auth.service" />
+      <recent name="com.online.core.auth.domain" />
+      <recent name="com.online.portal.vo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IDEAwork\ocProject\ocService\src\main\java\com\online\core\user\dao" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -494,10 +446,47 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.31">
-    <configuration name="All in ocProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ocProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+    <configuration name="CollectionsController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.online.portal.controller.CollectionsController" />
+      <module name="ocPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.portal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthController.sa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ocPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.portal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.online.portal.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.online.portal.controller.AuthController" />
+      <option name="METHOD_NAME" value="sa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseListController.f" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ocPortal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.online.portal.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.online.portal.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.online.portal.controller.CourseListController" />
+      <option name="METHOD_NAME" value="f" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -534,22 +523,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ocService" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.online.core.user.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.online.core.user.test" />
-      <option name="MAIN_CLASS_NAME" value="com.online.core.user.test.UserTest" />
-      <option name="METHOD_NAME" value="testLogin" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ocCommon [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -575,7 +548,7 @@
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="ocPortal [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="ocPortal [clean]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -586,7 +559,7 @@
             </option>
             <option name="goals">
               <list>
-                <option value="package" />
+                <option value="clean" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -631,7 +604,7 @@
       <deployment>
         <artifact name="ocPortal:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -761,21 +734,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in ocProject" />
-      <item itemvalue="JUnit.UserTest.testLogin" />
+      <item itemvalue="Application.CollectionsController" />
       <item itemvalue="JUnit.UserTest.testLogin (1)" />
+      <item itemvalue="JUnit.QiNiuTest.testImages" />
+      <item itemvalue="JUnit.CourseListController.f" />
+      <item itemvalue="JUnit.AuthController.sa" />
       <item itemvalue="Maven.ocCommon [package]" />
-      <item itemvalue="Maven.ocPortal [package]" />
+      <item itemvalue="Maven.ocPortal [clean]" />
       <item itemvalue="Maven.ocService [package]" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="JUnit.QiNiuTest.testImages" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuthController.sa" />
+        <item itemvalue="Application.CollectionsController" />
+        <item itemvalue="JUnit.CourseListController.f" />
         <item itemvalue="JUnit.QiNiuTest.testImages" />
         <item itemvalue="JUnit.UserTest.testLogin (1)" />
-        <item itemvalue="JUnit.UserTest.testLogin" />
-        <item itemvalue="JUnit.All in ocProject" />
       </list>
     </recent_temporary>
   </component>
@@ -811,44 +786,60 @@
       <workItem from="1553002161392" duration="3233000" />
       <workItem from="1553059820456" duration="4780000" />
       <workItem from="1553229651506" duration="3753000" />
-      <workItem from="1553238919334" duration="16029000" />
+      <workItem from="1553238919334" duration="17235000" />
+      <workItem from="1553410030905" duration="8019000" />
+      <workItem from="1553418587593" duration="14049000" />
+      <workItem from="1553495901318" duration="8394000" />
+      <workItem from="1553609085506" duration="2850000" />
+      <workItem from="1553667575086" duration="10541000" />
+      <workItem from="1553688614148" duration="802000" />
+      <workItem from="1553753694562" duration="13585000" />
+      <workItem from="1553836906824" duration="6047000" />
+      <workItem from="1553843128472" duration="1499000" />
+      <workItem from="1553844669402" duration="1732000" />
+      <workItem from="1553846446549" duration="4581000" />
+      <workItem from="1554045606359" duration="119000" />
+      <workItem from="1554094749172" duration="6650000" />
+      <workItem from="1554101619745" duration="15810000" />
+      <workItem from="1554267855703" duration="35872000" />
+      <workItem from="1554442049013" duration="20644000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserTest_testLogin - 2019.03.19 at 13h 45m 29s.xml">
-      <configuration name="UserTest.testLogin" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 20m 32s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_testLogin_(1) - 2019.03.19 at 13h 46m 50s.xml">
-      <configuration name="UserTest.testLogin (1)" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 20m 47s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserTest_testLogin_(1) - 2019.03.19 at 13h 47m 11s.xml">
-      <configuration name="UserTest.testLogin (1)" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 21m 03s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 08m 58s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 29m 11s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 10m 07s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 29m 51s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 16m 36s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 30m 18s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 17m 16s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 31m 59s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 18m 00s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 35m 05s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 18m 26s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="CourseListController_f - 2019.03.26 at 22h 35m 44s.xml">
+      <configuration name="CourseListController.f" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="QiNiuTest_testImages - 2019.03.22 at 17h 19m 09s.xml">
-      <configuration name="QiNiuTest.testImages" configurationId="JUnit" />
+    <history-entry file="AuthController_sa - 2019.04.03 at 21h 39m 57s.xml">
+      <configuration name="AuthController.sa" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132621000" />
+    <option name="totallyTimeSpent" value="285021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -861,8 +852,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7805383" visible="true" weight="0.24798928" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7805383" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.5011765" side_tool="true" weight="0.24961948" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -871,29 +863,29 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" sideWeight="0.2194617" side_tool="true" weight="0.23458445" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38613862" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731904" weight="0.30551627" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" visible="true" weight="0.3026874" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32713178" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32713178" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.19689922" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32713178" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32673267" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32673267" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.28854313" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32673267" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50076103" side_tool="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49923897" weight="0.25736433" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32857144" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020107" side_tool="true" weight="0.407355" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49798927" weight="0.2560113" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" weight="0.3281471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24932976" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.32908848" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32786885" />
+      <window_info anchor="right" id="Database" order="6" weight="0.327748" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -941,398 +933,375 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/footer.html">
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IUserCollectionsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="16" />
+        <state relative-caret-position="146">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserCourseSectionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="145" selection-start-line="28" selection-start-column="145" selection-end-line="28" selection-end-column="145" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCollectionsDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/UserCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/UserCollectionsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserCollectionsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/QiniuStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/test/com.online.service/QiNiuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-569">
+          <caret line="27" column="92" selection-start-line="27" selection-start-column="84" selection-end-line="27" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/dao/AuthUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/dao/AuthUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="88" column="39" lean-forward="true" selection-start-line="88" selection-start-column="39" selection-end-line="88" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/header.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/header2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="285">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/service/IAuthUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/auth/service/impl/AuthUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="63" selection-end-column="5" />
           <folding>
-            <element signature="n#style#0;n#a#3;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#4;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1656#1657#0" expanded="true" />
+            <element signature="e#1706#1707#0" expanded="true" />
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1809#1810#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/orm/LongModel.java">
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="190">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/common/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#nav#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/orm/Identifier.java">
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/learn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="228">
+          <caret line="30" column="60" lean-forward="true" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.12/jackson-mapper-asl-1.9.12.jar!/org/codehaus/jackson/map/annotate/JsonView.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="166">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.8/mybatis-3.2.8.jar!/org/apache/ibatis/binding/MapperMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="341" selection-start-line="341" selection-end-line="341" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="278" column="37" selection-start-line="278" selection-start-column="37" selection-end-line="278" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserTestDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/UserTestMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1/c3p0-0.9.1.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1/c3p0-0.9.1-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/JsonView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://21e71007-2da2-498d-bfc8-8b1c2f687ba1/schema/ocdb/table/t_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/passwd.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/AuthUser.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2983">
-          <caret line="206" column="5" selection-start-line="206" selection-start-column="5" selection-end-line="206" selection-end-column="5" />
+        <state relative-caret-position="155">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/domain/UserCourseSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="158" column="42" lean-forward="true" selection-start-line="158" selection-start-column="42" selection-end-line="158" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/web/VerificationCodeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/dao/CourseSectionMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/commentSegment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/qa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="82" column="83" lean-forward="true" selection-start-line="82" selection-start-column="83" selection-end-line="82" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/domain/CourseComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/dao/CourseCommentDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/service/impl/CourseCommentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding>
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/service/ICourseCommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/course/dao/CourseCommentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/CourseCommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/user/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="31" column="80" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/filter/authc/AuthenticatingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/filter/authc/AuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.2.2/shiro-core-1.2.2.jar!/org/apache/shiro/subject/Subject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/servlet/AdviceFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/filter/PathMatchingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.1.1.RELEASE/spring-web-4.1.1.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="196" column="5" lean-forward="true" selection-start-line="196" selection-start-column="5" selection-end-line="196" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-            <element signature="e#1720#1721#0" expanded="true" />
-            <element signature="e#1840#1841#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-            <element signature="e#1991#1992#0" expanded="true" />
-            <element signature="e#2022#2023#0" expanded="true" />
-            <element signature="e#3096#3097#0" expanded="true" />
-            <element signature="e#3142#3143#0" expanded="true" />
-            <element signature="e#3266#3267#0" expanded="true" />
-            <element signature="e#3312#3313#0" expanded="true" />
-            <element signature="e#3883#3884#0" expanded="true" />
-            <element signature="e#3914#3915#0" expanded="true" />
-            <element signature="e#4148#4149#0" expanded="true" />
-            <element signature="e#4180#4181#0" expanded="true" />
-            <element signature="e#4417#4418#0" expanded="true" />
-            <element signature="e#4448#4449#0" expanded="true" />
-            <element signature="e#4695#4696#0" expanded="true" />
-            <element signature="e#4726#4727#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/HttpHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/web/shiro/ShiroFreeMarkerConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2.jar!/org/apache/shiro/web/filter/AccessControlFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/web/auth/AuthRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/web/auth/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/AuthController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/AuthUserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/auth/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="143" column="46" selection-start-line="143" selection-start-column="46" selection-end-line="143" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#4;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#form#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/ftl/spring.ftl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5917">
-          <caret line="44" column="58" selection-start-line="44" selection-start-column="58" selection-end-line="44" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/QiniuWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/ThumbModel.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/utils/CommonUtil.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/course.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/QiniuKeyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        <state relative-caret-position="152">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/c4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/c1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/c2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/c3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/res/i/c5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/test/com.online.service/QiNiuTest.java">
+    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/shiro.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/utils/PropertiesUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/storage/FileTypeHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/app-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="59" column="72" lean-forward="true" selection-start-line="59" selection-start-column="72" selection-end-line="59" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocCommon/src/main/java/com/online/common/orm/BaseEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/SiteCarouselService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/domain/ConstsSiteCarousel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/ISiteCarouselService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/dao/AuthUserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/IAuthUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/dao/ConstsSiteCarouselMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/user/service/impl/AuthUserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/java/com/online/portal/controller/PortalController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/resource/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/dao/ConstsSiteCarouselDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocService/src/main/java/com/online/core/consts/service/impl/SiteCarouselServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ocPortal/src/main/webapp/WEB-INF/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-902">
-          <caret line="110" column="57" selection-start-line="110" selection-start-column="57" selection-end-line="110" selection-end-column="57" />
-          <folding>
-            <element signature="n#style#0;n#a#3;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#2;n#nav#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#label#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#1;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#a#4;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#3;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#4;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
         </state>
       </provider>
     </entry>

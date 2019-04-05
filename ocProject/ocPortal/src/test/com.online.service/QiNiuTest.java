@@ -1,8 +1,7 @@
 package com.online.service;
 
 import com.online.common.storage.QiniuStorage;
-import com.online.common.storage.ThumbModel;
-import com.online.common.utils.CommonUtil;
+import com.online.common.util.CommonUtil;
 import org.junit.Test;
 
 import java.io.File;

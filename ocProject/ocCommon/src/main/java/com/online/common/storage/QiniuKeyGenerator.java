@@ -1,6 +1,6 @@
 package com.online.common.storage;
 
-import com.online.common.utils.CommonUtil;
+import com.online.common.util.CommonUtil;
 
 import java.text.MessageFormat;
 

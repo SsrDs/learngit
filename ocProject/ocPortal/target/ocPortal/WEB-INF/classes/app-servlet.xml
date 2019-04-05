@@ -20,38 +20,37 @@
     <!-- 静态文件 -->
     <mvc:resources mapping="/res/**"  location="/res/"  cache-period="3600"/>
     <mvc:resources mapping="/static/**"  location="/static/"  cache-period="3600"/>
-    <!-- <mvc:resources mapping="/images/**"  location="/WEB-INF/images/"  cache-period="3600"/> -->
 
-    <bean id="freeMarkerConfigurer" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
-        <property name="templateLoaderPath" value="" />
-        <property name="freemarkerSettings">
-            <props>
-                <prop key="template_update_delay">0</prop>
-                <prop key="default_encoding">UTF-8</prop>
-                <prop key="locale">zh_CN</prop>
-            </props>
-        </property>
-    </bean>
-
-    <!--<bean id="freemarkerConfig" class="com.online.common.web.shiro.ShiroFreeMarkerConfigurer">-->
-        <!--<property name="templateLoaderPath" value=""/>-->
+    <!--<bean id="freeMarkerConfigurer" class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">-->
+        <!--<property name="templateLoaderPath" value="" />-->
         <!--<property name="freemarkerSettings">-->
             <!--<props>-->
-                <!--<prop key="tag_syntax">auto_detect</prop>-->
-                <!--<prop key="template_update_delay">1</prop>-->
-                <!--<prop key="defaultEncoding">UTF-8</prop>-->
-                <!--<prop key="url_escaping_charset">UTF-8</prop>-->
+                <!--<prop key="template_update_delay">0</prop>-->
+                <!--<prop key="default_encoding">UTF-8</prop>-->
                 <!--<prop key="locale">zh_CN</prop>-->
-                <!--<prop key="boolean_format">true,false</prop>-->
-                <!--<prop key="datetime_format">yyyy-MM-dd HH:mm:ss</prop>-->
-                <!--<prop key="date_format">yyyy-MM-dd</prop>-->
-                <!--<prop key="time_format">HH:mm:ss</prop>-->
-                <!--<prop key="number_format">0.######</prop>-->
-                <!--<prop key="whitespace_stripping">true</prop>-->
-                <!--<prop key="auto_import">/WEB-INF/ftl/spring.ftl as s</prop>-->
             <!--</props>-->
         <!--</property>-->
     <!--</bean>-->
+
+    <bean id="freemarkerConfig" class="com.online.common.web.shiro.ShiroFreeMarkerConfigurer">
+    <property name="templateLoaderPath" value=""/>
+    <property name="freemarkerSettings">
+        <props>
+            <prop key="tag_syntax">auto_detect</prop>
+            <prop key="template_update_delay">1</prop>
+            <prop key="defaultEncoding">UTF-8</prop>
+            <prop key="url_escaping_charset">UTF-8</prop>
+            <prop key="locale">zh_CN</prop>
+            <prop key="boolean_format">true,false</prop>
+            <prop key="datetime_format">yyyy-MM-dd HH:mm:ss</prop>
+            <prop key="date_format">yyyy-MM-dd</prop>
+            <prop key="time_format">HH:mm:ss</prop>
+            <prop key="number_format">0.######</prop>
+            <prop key="whitespace_stripping">true</prop>
+            <prop key="auto_import">/WEB-INF/ftl/spring.ftl as s</prop>
+        </props>
+    </property>
+    </bean>
 
     <bean id="viewResolver" class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
         <property name="prefix" value="/WEB-INF/pages/" />

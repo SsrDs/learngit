@@ -13,19 +13,21 @@
 <link rel="icon" type="image/png" href="../../../res/i/ico.png" sizes="16x16">
 
 <script type="text/javascript">
-CONTEXT_PATH = '../../pages';
+var SHIRO_LOGIN = false;
+ <@shiro.user>
+        SHIRO_LOGIN = true;    //是否已经登录
+ </@shiro.user>
 
-
-$(function(){  
-    // 设置jQuery Ajax全局的参数  
-    $.ajaxSetup({  
-        type: "POST",  
+$(function(){
+    // 设置jQuery Ajax全局的参数
+    $.ajaxSetup({
+        type: "POST",
         complete:function(xhr,status){
-        	if(xhr.responseJSON.errcode == 1001){//登录超时 
-        		window.location.href=CONTEXT_PATH+"/auth/login.html";
+        	if(xhr.responseJSON.errcode == 1001){//登录超时
+        		window.location.href="/auth/login.html";
         	}
         }
-    });  
-});  
+    });
+});
 </script>
 

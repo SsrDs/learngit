@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Random;
 
-import com.online.common.utils.PropertiesUtil;
+import com.online.common.util.PropertiesUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;

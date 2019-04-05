@@ -32,7 +32,21 @@
             <artifactId>ocCommon</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.xmlbeans</groupId>
+            <artifactId>xmlbeans</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.github.penggle</groupId>
+            <artifactId>kaptcha</artifactId>
+            <version>2.3.2</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
+
+    <!--如果不添加此节点mybatis的mapper.xml文件都会被漏掉-->
     <build>
         <resources>
             <resource>
